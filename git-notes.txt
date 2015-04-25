@@ -1,0 +1,64 @@
+init		only once
+status		view often
+log		view changes
+touch		create new
+checkout	move to
+branch		view current
+add		make git-able
+commit
+commit -m	add notes
+
+git push(send to local remote) -u origin(name of remote) master(name of branch)
+
+
+commit 03a9c8e75017235cbad920faabcb5b138ed3100e
+Author: Renee Harris <r.harris86@gmail.com>
+Date:   Sat Apr 25 13:06:58 2015 -0700
+
+    add unix notes
+seaburrito@Renees-MacBook-Pro ~/uge_2> git brank git-notes
+git: 'brank' is not a git command. See 'git --help'.
+
+Did you mean this?
+	branch
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branh git-notes
+git: 'branh' is not a git command. See 'git --help'.
+
+Did you mean this?
+	branch
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branch git-notes
+seaburrito@Renees-MacBook-Pro ~/uge_2> git status
+On branch master
+nothing to commit, working directory clean
+seaburrito@Renees-MacBook-Pro ~/uge_2> clear
+
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branch git notes
+fatal: Not a valid object name: 'notes'.
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branch git-notes
+fatal: A branch named 'git-notes' already exists.
+seaburrito@Renees-MacBook-Pro ~/uge_2> git status
+On branch master
+nothing to commit, working directory clean
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branch
+  git-notes
+* master
+seaburrito@Renees-MacBook-Pro ~/uge_2> git checkout git-notes
+Switched to branch 'git-notes'
+seaburrito@Renees-MacBook-Pro ~/uge_2> git status
+On branch git-notes
+nothing to commit, working directory clean
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branch
+* git-notes
+  master
+seaburrito@Renees-MacBook-Pro ~/uge_2> git checkout notes
+error: pathspec 'notes' did not match any file(s) known to git.
+seaburrito@Renees-MacBook-Pro ~/uge_2> git branch
+* git-notes
+  master
+seaburrito@Renees-MacBook-Pro ~/uge_2> git checkout master
+Switched to branch 'master'
+seaburrito@Renees-MacBook-Pro ~/uge_2> git checkout git-notes
+Switched to branch 'git-notes'
+seaburrito@Renees-MacBook-Pro ~/uge_2> touch git-notes.txt
+seaburrito@Renees-MacBook-Pro ~/uge_2> open git-notes.txt
+seaburrito@Renees-MacBook-Pro ~/uge_2> 
