@@ -1,3 +1,5 @@
+-a to find hidden files
+
 clear
 cd uge_2
 mkdir uge_2
