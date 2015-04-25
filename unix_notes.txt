@@ -1,0 +1,221 @@
+clear
+cd uge_2
+mkdir uge_2
+s
+c
+cd ..
+git status
+git add moving.txt/
+ls
+git add fake.txt
+status
+mkdir new.txt git add
+ls -a
+git init
+pwd
+mkdir fake.txt
+mkdir blank.txt
+cd uge_workshop/
+git config --global user.email "r.harris86@gmail.com"
+git config --global user.com "Renee Harris"
+cd
+cd -a
+ls -al
+ls --a
+ls a
+mv -i example
+mv -1 example
+mv -i
+man mv
+man
+history | tail
+history | head
+mv moving_around.txt moving.txt
+mv moving_around.txt ./uge_workshop/
+mv moving_around.txt/
+mkdir moving_around.txt
+cd uge_workshop
+mkdir uge_workshop
+history | head -n 3
+open txt.txt subl
+cd CF
+subl
+open -a Sublime Text 2 txt.txt
+open -a subl txt.txt
+subl txt.txt
+open txt.txt
+~/CF/ open txt.txt
+~/CF
+open subl
+open history.txt
+echo "this is a txt" > txt.txt
+echo "this is a txt"
+history > history.txt
+open dumbdogs.html
+cd ~/CF/
+history | less
+history
+history 10
+history 20
+histoty
+cd ~/homefake
+cd ~/CF/fake-folder
+cd ~/fake-folder
+ls .
+.
+mkdir homefake
+ls Public/
+cd Shared/
+cd ~/../
+cd ~/Documents
+cd ~ Documents
+ls ~
+cd CF/fake-folder
+../../CF/fake-folder
+cd BPT\ stuff
+cd Documents
+../../Documents
+cd fake-folder
+..
+cd subfake
+less -CF
+less
+cd ../..
+mkdir subfake
+ls -l
+mkdir fake-folder
+CD
+cd cf
+owd
+cd my\ folder
+cd my folder
+mkdir my\ folder
+cd /tmp
+/users/seaburrito
+/Users/seaburrito
+/User/seaburrito
+cd /
+ls -r
+man ls
+ls -rt
+ls -ltr
+ls -tr
+ls -t
+$
+$ cd /
+$cd/
+cd/
+help
+li
+open index.html
+cd final
+cd fina;
+cd deckofcards-master
+cd Downloads
+cd sorting_cards-master
+open carddeck.html
+open deck.html
+cs CF
+open dumbdog.html
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'r.harris86@gmail.com'
+git config --global user.name 'Renee Harris'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $path
+subl -w
+echo $EDITOR
+subl ~/.config/fish/config.fish
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+Terminal > Preferences
+uname
+open someone.html
+open turtle.html
+cd PTSweb
+cd PTS web
+cd PTS Web
+cd PotS
+cs PotS
+cd Desktop
+Desktop
+open rebuild.html
+open turtl.html
+open rabbit.html
+open rabbit.js
+cd downloads
+mv rebuild.html CF
+open codereview.html
+open guessinggame.html
+cd ../
+../
+cd /home/seaburrito
+cd seaburrito$
+cd seaburrito
+/
+cdCF
+mv test1.html CF
+move test1.html CF
+touch test1.html
+git config --global user.name "Renee"
+$ git config --global user.name "Renee"
+open sublime guessinggame.html
+sublime .
+sublime
+open ~/.profile
+open ~/.bash_profile
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+ln ~s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+$ ln ~s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+open sublime
+/subl
+cd subl
+cd Sublime
+cd Sublime Text 2.app
+cd /Applications
+cs Applications
+~ls
+ls~
+cd Applications
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+cd home
+subl --help
+...
+$ subl
+cd /home
+cd bin
+open bin
+bin
+/bin/bash
+/bin
+open guessinggmae.html
+open game.html
+open coin.html
+open yorn.html
+ope guessinggame.html
+cwp
+cwd
+open demo.html
+ped
+mkdir CF
+openguessinggame.html
+echo $SHELL
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles TRUE
+defaults write com.apple.finder AppleShowAllFiles FALSE
